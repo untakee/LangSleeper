@@ -1,5 +1,7 @@
 # LangSleeper
 
+Site: https://untakee.github.io/LangSleeper/
+
 ### A smarter keyboard layout switcher for Windows
 
 **Switch between your primary keyboard languages. Instantly activate a third or fourth language with custom shortcuts.**
