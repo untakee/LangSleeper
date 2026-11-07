@@ -1,0 +1,60 @@
+LangSleeper Free Use and Permission-Based Distribution License 1.0
+SPDX-License-Identifier: LicenseRef-LangSleeper-Free-Use
+
+Copyright (c) 2026 untakee. All rights reserved except as expressly granted below.
+Licensor and permission requests: https://github.com/untakee/LangSleeper/issues
+Official project: https://github.com/untakee/LangSleeper
+
+1. FREE USE
+You may download, install, run and make backup copies of LangSleeper, free of
+charge, for personal use and for internal use in a business or organization.
+You may inspect the source code, build the software and modify it for your own
+private or internal use. Internal copies may be shared with people within your
+organization for that internal use. No usage fee is due for these activities.
+
+2. DISTRIBUTION AND PUBLICATION REQUIRE PERMISSION
+Except for section 1 and section 3, you must obtain the Licensor's prior written
+permission before publishing, distributing, redistributing, sublicensing,
+selling, renting, hosting for download, or otherwise supplying copies of the
+software or its source code to third parties. This restriction applies to both
+original and modified versions, binaries and source code, public releases,
+mirrors, app-store or package-manager listings that distribute a copy, and
+incorporation of any part of the software into another distributed product.
+
+The Licensor may grant permission free of charge or under a separate paid
+license. A payment by itself does not grant distribution rights. Any fee and
+the scope of permission must be agreed in writing before distribution.
+
+3. LINKS, DISCUSSION AND HOSTING-PLATFORM RIGHTS
+You may link to the official project and its official releases without asking
+permission. You may write reviews, articles and comparisons and publish your
+own screenshots or demonstrations of the software. This license does not
+require approval of commentary about the project.
+
+Nothing in this license limits rights that the Licensor has granted under the
+terms of the platform hosting the official repository, including platform
+features for viewing and forking a public repository, or rights that applicable
+law provides independently of this license. Such platform features do not grant
+permission to distribute standalone releases or publish copies elsewhere.
+
+4. NOTICES AND OWNERSHIP
+Keep this license and existing copyright notices with any copy you are permitted
+to make. Do not claim authorship of the original software or imply that your
+modified version is an official LangSleeper release. No trademark rights are
+granted. Rights not expressly granted are reserved by the Licensor.
+
+5. NO WARRANTY; LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+THE AUTHORS AND COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+6. ACCEPTANCE AND TERMINATION
+By exercising rights granted by this license, you accept its terms. If you
+breach these terms, the permissions granted by this license terminate. Rights
+and remedies provided by applicable law remain unaffected.
+
+This is a custom source-available license, not the MIT license and not an
+OSI-approved open-source license. The English text is authoritative. A Russian
+explanation is provided in LICENSE.ru.md for convenience.
